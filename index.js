@@ -1,2 +1,3 @@
-const paramA = 10 + 0
+const paramA = 
+  10 + 0
 console.log(paramA)
